@@ -1,4 +1,4 @@
-# BANK CREDIT CARD CUSTOMER SEGMENTATION 
+# BANK CREDIT CARD CUSTOMER SEGMENTATION 🤖
 
 ![screenshot](cust.png)
 
@@ -17,10 +17,12 @@ Data Source: https://www.kaggle.com/arjunbhasin2013/ccdata## Table of Contents
 To run this notebook, you need to have Python and Jupyter Notebook installed. You can install the required packages using the following command:
 
 ## Methodology
+
 The notebook employs the following methods for customer segmentation:
-KMeans Clustering: This algorithm is used to partition the data into distinct clusters.
-Elbow Method: This method is used to determine the optimal number of clusters by plotting the sum of squared distances from each point to its assigned cluster center.
-Principal Component Analysis (PCA): PCA is used for dimensionality reduction and to visualize the clusters in a two-dimensional space.
+
+- KMeans Clustering: This algorithm is used to partition the data into distinct clusters.
+- Elbow Method: This method is used to determine the optimal number of clusters by plotting the sum of squared distances from each point to its assigned cluster center.
+- Principal Component Analysis (PCA): PCA is used for dimensionality reduction and to visualize the clusters in a two-dimensional space.
 
 ## Results
 The notebook provides visualizations and analysis results for the customer segments identified. Key findings and insights are discussed in the notebook. The PCA visualization helps in understanding the distribution of the clusters.
