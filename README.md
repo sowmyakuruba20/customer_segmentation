@@ -10,7 +10,7 @@ Customer segmentation is a crucial task in marketing and business strategy. By u
 
 ## Dataset
 
-Data Source: https://www.kaggle.com/arjunbhasin2013/ccdata## Table of Contents
+Data Source: https://www.kaggle.com/arjunbhasin2013/ccdata
 
 ## Installation
 
